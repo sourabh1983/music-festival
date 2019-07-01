@@ -1,0 +1,10 @@
+.idea
+.vscode/
+venv/
+.pytest_*
+*pdf
+*__pycache__*
+*.egg-info
+.pytest_cache
+.tox
+*.ipynb
