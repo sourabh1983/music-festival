@@ -3,8 +3,6 @@ import operator
 from festival.music_festival import Band, MusicFestival, RecordLabel
 
 record_labels = []
-bands = []
-music_festivals = []
 
 
 # function checks that if record label already exists then return record label
