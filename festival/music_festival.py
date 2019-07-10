@@ -3,9 +3,6 @@ import operator
 
 # Record label object consists of record label name and list of bands
 class RecordLabel:
-    name = None
-    bands = []
-
     def __init__(self, name):
         self.name = name
         self.bands = []
